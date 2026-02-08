@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|d:\\sampuranaa eka brows product print report hadanna one\\fully completed assignment \u2013 application development\\shopgreensystem\\shopgreensystem\\customerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\customerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|d:\\sampuranaa eka brows product print report hadanna one\\fully completed assignment \u2013 application development\\shopgreensystem\\shopgreensystem\\customerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\customerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|d:\\sampuranaa eka brows product print report hadanna one\\fully completed assignment \u2013 application development\\shopgreensystem\\shopgreensystem\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|d:\\sampuranaa eka brows product print report hadanna one\\fully completed assignment \u2013 application development\\shopgreensystem\\shopgreensystem\\productmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\productmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|d:\\sampuranaa eka brows product print report hadanna one\\fully completed assignment \u2013 application development\\shopgreensystem\\shopgreensystem\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|d:\\sampuranaa eka brows product print report hadanna one\\fully completed assignment \u2013 application development\\shopgreensystem\\shopgreensystem\\productmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\productmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|d:\\sampuranaa eka brows product print report hadanna one\\fully completed assignment \u2013 application development\\shopgreensystem\\shopgreensystem\\browseproductsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\browseproductsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|d:\\sampuranaa eka brows product print report hadanna one\\fully completed assignment \u2013 application development\\shopgreensystem\\shopgreensystem\\browseproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\browseproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\shopgreensystem\\browseproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\browseproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerDashboardForm.cs",
+              "DocumentMoniker": "D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\ShopGreenSystem\\CustomerDashboardForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\CustomerDashboardForm.cs",
+              "ToolTip": "D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\ShopGreenSystem\\CustomerDashboardForm.cs",
+              "RelativeToolTip": "ShopGreenSystem\\CustomerDashboardForm.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAqwKQBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T05:54:10.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerDashboardForm.cs [Design]",
+              "DocumentMoniker": "D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\ShopGreenSystem\\CustomerDashboardForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\CustomerDashboardForm.cs",
+              "ToolTip": "D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\ShopGreenSystem\\CustomerDashboardForm.cs [Design]",
+              "RelativeToolTip": "ShopGreenSystem\\CustomerDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T05:54:06.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportsForm.cs",
+              "DocumentMoniker": "D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\ShopGreenSystem\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\ReportsForm.cs",
+              "ToolTip": "D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\ShopGreenSystem\\ReportsForm.cs",
+              "RelativeToolTip": "ShopGreenSystem\\ReportsForm.cs",
+              "ViewState": "AgIAAJ8CAAAAAAAAAAAkwAIDAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T05:53:25.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportsForm.cs [Design]",
+              "DocumentMoniker": "D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\ShopGreenSystem\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\ReportsForm.cs",
+              "ToolTip": "D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\ShopGreenSystem\\ReportsForm.cs [Design]",
+              "RelativeToolTip": "ShopGreenSystem\\ReportsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T05:53:22.008Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManagementForm.cs",
+              "DocumentMoniker": "D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\ShopGreenSystem\\ProductManagementForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\ProductManagementForm.cs",
+              "ToolTip": "D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\ShopGreenSystem\\ProductManagementForm.cs*",
+              "RelativeToolTip": "ShopGreenSystem\\ProductManagementForm.cs*",
+              "ViewState": "AgIAAOUBAAAAAAAAAAAgwN4BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T05:52:31.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductManagementForm.cs [Design]",
+              "DocumentMoniker": "D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\ShopGreenSystem\\ProductManagementForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\ProductManagementForm.cs",
+              "ToolTip": "D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\ShopGreenSystem\\ProductManagementForm.cs [Design]*",
+              "RelativeToolTip": "ShopGreenSystem\\ProductManagementForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T05:52:11.609Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BrowseProductsForm.Designer.cs",
+              "DocumentMoniker": "D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\ShopGreenSystem\\BrowseProductsForm.Designer.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\BrowseProductsForm.Designer.cs",
+              "ToolTip": "D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\ShopGreenSystem\\BrowseProductsForm.Designer.cs",
+              "RelativeToolTip": "ShopGreenSystem\\BrowseProductsForm.Designer.cs",
+              "ViewState": "AgIAADkCAAAAAAAAAAAswFsCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T13:01:27.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BrowseProductsForm.cs",
+              "DocumentMoniker": "D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\ShopGreenSystem\\BrowseProductsForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\BrowseProductsForm.cs",
+              "ToolTip": "D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\ShopGreenSystem\\BrowseProductsForm.cs",
+              "RelativeToolTip": "ShopGreenSystem\\BrowseProductsForm.cs",
+              "ViewState": "AgIAAJoHAAAAAAAAAADwv8sHAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T13:00:54.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BrowseProductsForm.cs [Design]",
+              "DocumentMoniker": "D:\\sampuranaa eka brows product print report hadanna one\\Fully Completed Assignment \u2013 Application Development\\ShopGreenSystem\\ShopGreenSystem\\BrowseProductsForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\BrowseProductsForm.cs",
+              "ToolTip": "D:\\sampuranaa eka brows product print report hadanna one\\Assignment-Application Development\\ShopGreenSystem\\ShopGreenSystem\\BrowseProductsForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Assignment-Application Development\\ShopGreenSystem\\ShopGreenSystem\\BrowseProductsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T13:00:43.995Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
