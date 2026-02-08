@@ -4,7 +4,7 @@ A desktop-based shop management system for organic stores, built with C# and MyS
 
 ## 🔗 Documentation Links
 📘 **Full User Guide**  
-👉 **View Manual** (https://github.com/MoviniGayaraa/GreenStoreShopSystem/blob/master/USER%20GUIDE%20DOCUMENTATION.pdf)
+👉 **View Manual** (https://github.com/MoviniGayaraa/FullyCompletedGreenStoreShopSystem/blob/master/USER%20GUIDE%20DOCUMENTATION-SHOP_SYSTEM.pdf)
 
 ## 🚀 Installation Guide
 
